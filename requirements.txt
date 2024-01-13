@@ -1,0 +1,6 @@
+pandas
+matplotlib
+torch
+seaborn
+mplsoccer
+python-dotenv
